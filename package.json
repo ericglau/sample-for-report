@@ -9,8 +9,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@openzeppelin/contracts": "4.4.1",
-    "@openzeppelin/contracts-upgradeable": "4.4.1",
+"@openzeppelin/contracts": "4.3.1",
+    "@openzeppelin/contracts-upgradeable": "4.3.1",
     "@ethersproject/abi": "^5.7.0",
     "@ethersproject/providers": "^5.7.2",
     "@nomicfoundation/hardhat-chai-matchers": "^1.0.4",
